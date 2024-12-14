@@ -16,4 +16,4 @@
 
 Склонируйте репозиторий:
 
-git clone [https://github.com/birionn/VRPO8.git](https://github.com/Alizefox/vrpo8.git)
+git clone https://github.com/Alizefox/vrpo8.git
